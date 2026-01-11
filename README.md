@@ -30,7 +30,7 @@ Many ABCs can understand Cantonese but struggle to speak it. This project focuse
 ## 📱 Live Demo
 
 Expo Go (public tunnel):  
-exp://zmvtc-e-jkli-8082.exp.direct
+exp://zmvtc-e-jkli-8081.exp.direct
 
 OR scan the QR with Expo Go already installed:
 ![Expo QR Code](./docs/expo-cantonese.png)
