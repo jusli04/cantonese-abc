@@ -28,4 +28,26 @@ Many ABCs can understand Cantonese but struggle to speak it. This project focuse
 ---
 
 ## 📱 Live Demo
+
 Expo Go (public tunnel):  
+exp://rgzf_-a-jkli-8081.exp.direct
+
+**How to run:**
+1. Install the **Expo Go** app (iOS or Android)
+2. Open Expo Go
+3. Scan the QR code or paste the link above
+> Requires the Expo Go mobile app.
+
+---
+
+## 🚀 Getting Started
+```bash
+git clone https://github.com/jusli04/cantonese-abc.git
+cd cantonese-abc
+npm install
+npx expo start
+
+
+
+**Justin Li**  
+UC Davis — AggieWorks Applicant
