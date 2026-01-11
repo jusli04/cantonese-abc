@@ -33,7 +33,7 @@ Expo Go (public tunnel):
 exp://zmvtc-e-jkli-8082.exp.direct
 
 OR scan the QR with Expo Go already installed:
-![Expo QR Code](./docs/expo-cantoAppJLi.png)
+![Expo QR Code](./docs/expo-cantonese.png)
 
 
 **How to run:**
