@@ -32,6 +32,10 @@ Many ABCs can understand Cantonese but struggle to speak it. This project focuse
 Expo Go (public tunnel):  
 exp://rgzf_-a-jkli-8081.exp.direct
 
+OR scan the QR with Expo Go already installed:
+![Expo QR Code](./docs/expo-qr.png)
+
+
 **How to run:**
 1. Install the **Expo Go** app (iOS or Android)
 2. Open Expo Go
